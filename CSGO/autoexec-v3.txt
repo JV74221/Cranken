@@ -5,49 +5,29 @@
 [Video - Advanced Video]
 
 - Source: https://www.youtube.com/watch?v=e2e26BGdPxk
-
 - Global Shadow Quality: MEDIUM
-
 - Model / Texture Detail: HIGH
-
 - Texture Streaming: DISABLED
-
 - Effect Detail: HIGH
-
 - Shader Detail: HIGH
-
 - Boost Player Contrast: ENABLED
-
 - Multicore Rendering: ENABLED
-
 - Multisampling Anti-Aliasing Mode: 8X MSAA
-
 - FXAA Anti-Aliasing: DISABLED
-
 - Texture Filtering Mode: ANISOTROPIC 16X
-
 - Wait for Vertical Sync: DISABLED
-
 - Motion Blur: DISABLED
-
 - Triple-Monitor Mode: DISABLED
-
 - Use Uber Shaders: ENABLED
 
 [Audio - Music]
 
 - Main Menu Volume: 50%
-
 - Round Start Volume: 50%
-
 - Round End Volume: 50%
-
 - Bomb/Hostage Volume: 50%
-
 - Ten Second Warning Volume: 50%
-
 - Death Camera Volume: 50%
-
 - MVP Volume: 100%
 
 [Game - Game]
@@ -61,7 +41,6 @@
 [Game - Crosshair]
 
 - Share or Import: CSGO-EKorT-jejEn-AUsMX-E3Omk-FrNkO
-
 - Show Player Crosshairs: EVERYONE
 
 [Keyboard/Mouse - Keyboard & Mouse Settings]
